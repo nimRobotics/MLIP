@@ -1,3 +1,7 @@
+"""
+helper function to plot gaussian contour in 2D
+"""
+
 import matplotlib.pyplot as plt  # set plt as alias for matplotlib.pyplot
 import numpy as np
 from scipy.stats import multivariate_normal

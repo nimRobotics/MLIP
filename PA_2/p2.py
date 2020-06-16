@@ -1,3 +1,7 @@
+"""
+Solution for problem 2
+"""
+
 import matplotlib.pyplot as plt
 import xlrd
 import numpy as np
