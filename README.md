@@ -17,3 +17,7 @@ For more details, check out the respective folders
 	- FLD
 - PA_4
 	- Neural Network from scratch 
+
+## License
+
+MIT
